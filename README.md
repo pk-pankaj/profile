@@ -1,2 +1,2 @@
 # profile
-My profile only hit hub repo
+My profile only Git hub repo
